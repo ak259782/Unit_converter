@@ -47,8 +47,8 @@ if st.button("Convert"):
 
 # Adding Personal Info in the Sidebar
 st.sidebar.markdown("---")
-st.sidebar.write("**Developed By:** Owais Mukhtar Khan")
-st.sidebar.write("**Contact:** owaismukhtarkhan@gmail.com")
-st.sidebar.write("**GitHub:** [GitHub Profile](https://github.com/owaismukhtarkhan)")
+st.sidebar.write("**Developed By:** Areeba Zahid")
+st.sidebar.write("**Contact:** areebazahid062@gmail.com")
+st.sidebar.write("**GitHub:** [GitHub Profile](https://github.com/ak259782)")
 
 # to run program type - streamlit run unit_converter.py
